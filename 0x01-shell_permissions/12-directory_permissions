@@ -1,2 +1,2 @@
-#!/bin/bish
+#!/bin/bash
 chmod mkdir 751 my_dir
